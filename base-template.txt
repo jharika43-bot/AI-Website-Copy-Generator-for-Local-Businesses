@@ -1,0 +1,37 @@
+You are a professional website copywriter. Write website copy for a local
+[BUSINESS TYPE] called "[BUSINESS NAME]" located in [LOCATION].
+
+Business context: [SHORT DESCRIPTION OF WHAT THEY OFFER]
+Target audience: [WHO THEY SERVE]
+Tone: [DESIRED TONE — e.g., warm & welcoming / clinical & trustworthy / bold & energetic]
+
+Write the following sections:
+
+1. Homepage hero copy — a headline (under 10 words) + subheadline (1-2 sentences)
+   that clearly states the value proposition.
+
+2. Homepage intro paragraph (2-3 sentences) that builds trust and interest.
+
+3. Three service descriptions (50-70 words each) tailored to what this business
+   type typically offers. For each, include: what's included, and why a
+   customer should choose this business for it.
+
+4. A primary CTA section — a heading + 1-sentence supporting line (use
+   urgency or trust-building where natural) + button text — encouraging the
+   visitor to [DESIRED ACTION: book/contact/enquire].
+
+Constraints:
+- Keep language simple, persuasive, and free of jargon.
+- Content must be website-ready (no placeholders, no explanations, no meta-commentary).
+- Match tone consistently across all sections.
+- Make the language specific to this business type, not generic filler.
+
+---
+Variables used for Glow Studio (salon, Hyderabad):
+BUSINESS TYPE = Salon
+BUSINESS NAME = Glow Studio
+LOCATION = Hyderabad
+DESCRIPTION = Hair, skin, and bridal styling salon
+TARGET AUDIENCE = Working women aged 20-45 seeking quality salon services
+TONE = Warm, welcoming, slightly premium
+DESIRED ACTION = Book an appointment
